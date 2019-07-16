@@ -18,8 +18,8 @@ Bryce Dudka\
      * How has fertility changed over time by region? 
      * Is there an observable relationship between fertility rates and life expectancy in aggregate?  At the regional level?  
 
-# Initial hypothesis:  If income is increasing, life expectancy will increase 
-# Additionally: of the variables we studied, income will have the highest correlation to life expectancy 
-# Summary conclusion: Yes, increasing income leads to increased life expectancy in all regions, but it is not universally the most      significant factor, fertility was. 
+## Initial hypothesis:  If income is increasing, life expectancy will increase 
+## Additionally: of the variables we studied, income will have the highest correlation to life expectancy 
+## Summary conclusion: Yes, increasing income leads to increased life expectancy in all regions, but it is not universally the most      significant factor, fertility was. 
 
 
